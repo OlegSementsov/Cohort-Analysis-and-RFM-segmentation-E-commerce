@@ -1,1 +1,0 @@
-# Cohort-Analysis-and-RFM-segmentation-E-commerce
